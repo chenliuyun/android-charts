@@ -54,6 +54,7 @@ Name | Types
 [MagnificentChart](https://github.com/Geek-1001/MagnificentChart) | Round
 [Polonium](https://github.com/Erzer/polonium-chart-view) | Line
 [Afreechart](https://github.com/johnjohndoe/AFreeChart) | Line
+[ChartView](https://github.com/romandanylyk/ChartView) | Line
 
 
 If this list helps you, favorite and send us your feedback :thumbsup:
