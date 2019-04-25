@@ -55,6 +55,7 @@ Name | Types
 [Polonium](https://github.com/Erzer/polonium-chart-view) | Line
 [Afreechart](https://github.com/johnjohndoe/AFreeChart) | Line
 [ChartView](https://github.com/romandanylyk/ChartView) | Line
+[ikvStockChart](https://github.com/wordplat/ikvStockChart) | Stock
 
 
 If this list helps you, favorite and send us your feedback :thumbsup:
